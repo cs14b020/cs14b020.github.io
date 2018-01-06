@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shashikanth Reddy"
+title                    : ""
 title_separator          : "-"
-name                     : &name "Shashikanth Reddy"
+name                     : &name "Shashikanth Reddy Potu"
 description              : &description "Final year B.Tech Student"
 url                      : https://cs14b020.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
