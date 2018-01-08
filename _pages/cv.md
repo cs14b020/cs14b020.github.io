@@ -9,9 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+Resume
+======
+You can download the complete pdf version of my resume from [here](http://academicpages.github.io/files/CV.pdf).
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+
 
 Education
 ======
