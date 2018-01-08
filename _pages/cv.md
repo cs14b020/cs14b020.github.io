@@ -11,7 +11,7 @@ redirect_from:
 
 Resume
 ======
-You can download the complete pdf version of my resume from [here](http://academicpages.github.io/files/CV.pdf).
+[here](http://academicpages.github.io/files/CV.pdf)
 
 
 
